@@ -1,4 +1,4 @@
-# Koa2-blog
+# Koa2_Mysql_Demo
 
 node+koa2+mysql
 
@@ -53,11 +53,11 @@ $ use nodesql;
 - postid：文章 id
 
 ```
-$ git clone https://github.com/otxwg/Koa2-blog.git
+$ git clone https://github.com/otxwg/Koa2_Mysql_Demo.git
 ```
 
 ```
-$ cd Koa2-blog
+$ cd Koa2_Mysql_Demo
 ```
 
 ```
