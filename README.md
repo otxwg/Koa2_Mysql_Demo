@@ -24,6 +24,7 @@ $ use nodesql;
 
 > database: nodesql tables: users posts comment (已经在 lib/mysql 建表)
 
+```js
 |   users     |   posts      |   comment   |
 | :---------: | :----------: | :---------: | --- |
 |     id      |      id      |     id      |
@@ -36,6 +37,7 @@ $ use nodesql;
 |       -     | comments     |      -      |     |
 |       -     |    pv        |      -      |     |
 |       -     |  avator      |      -      |     |
+```
 
 - id 主键递增
 - name: 用户名
